@@ -1,0 +1,2 @@
+# SampleMVVMNews
+Learn about MVVM
